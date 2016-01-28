@@ -1,0 +1,1 @@
+file * -name “*.sh” | sed “s/.sh//“
